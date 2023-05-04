@@ -300,7 +300,7 @@ export const showContactUs: boolean = true;
 export const seoData: SEODataType = {
   title: 'Navod Amarakoon',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
+    'A passionate Full Stack Web Developer and Game Developer.',
   author: 'Navod Amarakoon',
   image: 'https://i.ibb.co/mBzyyCY/1624117535995.jpg',
   // url: 'https://developer-portfolio-1hanzla100.vercel.app',
