@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Navod",
   description:"MAKE it WORK, MAKE it RIGHT, MAKE it FAST is my life motto, and as a Full Stack web developer experienced in Strapi, React.js, Next.js, Python, AWS, and game development using Unity and Unreal Engine, I am driven to pursue excellence and deliver exceptional results.",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://drive.google.com/file/d/1pKlIiQLl1kHmwhm8UbGcs-3Io_hEygsd/view?usp=share_link',
 };
 
 export const openSource = {
@@ -226,14 +226,14 @@ export const experience: ExperienceType[] = [
   {
     role: 'Software Engineer(Fullstack Developer)',
     company: 'DigitalX (Pvt) Ltd.',
-    companyLogo: '/img/icons/common/digitalx.jpeg',
+    companyLogo: 'https://i.ibb.co/D4yLBT6/download-1.jpg',
     date: 'Apr 2023 – Present',
     desc: 'I possess a broad range of technical skills required to handle both front-end and back-end development tasks. I have experience in programming languages, database management, and user interface design, allowing me to work on software projects from planning to deployment and maintenance. My proficiency in popular technologies such as React.js, Angular, Node.js, Python, and SQL enables me to develop complete web applications or software solutions that meet client needs. I am a problem solver who enjoys adapting to new challenges and keeping up with the latest trends in technology. ',
   },
   {
     role: 'Associate Software Engineer',
     company: 'DigitalX (Pvt) Ltd.',
-    companyLogo: '/img/icons/common/digitalx.jpeg',
+    companyLogo: 'https://i.ibb.co/D4yLBT6/download-1.jpg',
     date: 'Sep 2021 – Apr 2023',
     desc: 'As an Associate Software Engineer, I have gained valuable experience in the field of software development through my work on various projects. I have been involved in designing, coding, testing, and debugging software applications, as well as collaborating with cross-functional teams to deliver high-quality software solutions.During my time as an Associate Software Engineer, I have honed my programming skills in react js,node js,java, spring-boot etc, and have gained expertise in front-end and back-end development, database management, etc. I have also been involved in troubleshooting and resolving software defects, as well as continuously improving code quality and performance.',
     // descBullets: [
@@ -244,7 +244,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Freelancer',
     company: '',
-    companyLogo: '/img/icons/common/freelancer.jpg',
+    companyLogo: 'https://i.ibb.co/tm7008Q/Adobe-Stock-260205205ed.jpg',
     date: 'Sept 2019 - Present',
     desc: 'As a freelancer, I am a self-employed professional who offers services to clients on a project-by-project basis. My work typically falls within the creative industries, including writing, graphic design, web development, and marketing. I value the flexibility of choosing my own projects and clients, allowing me to work on projects that I am passionate about and setting my own schedule. Being a freelancer also means that I have the freedom to work from anywhere in the world, providing I have access to the necessary tools and technology. To be successful, I prioritize strong communication skills and effective time management to deliver projects on time and to a high standard. Building a robust portfolio and maintaining positive relationships with clients are essential elements of building a successful freelance career.',
   },
